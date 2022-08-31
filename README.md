@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tristan-Amadei.I'm a engineering student à Télécom SudParis, a top French Engineering school specialized in the digital field. 
-- 👀 I’m interested in Computer Science and Machine Learning.
+- 👋 Hi, I’m @Tristan-Amadei. I'm a engineering student currently pursuing a double engineering degree at Télécom SudParis, a French Engineering school specialized in the digital field, and ENSAE Paris, a top French school specialized in Maths and Data Science.
+- 👀 I’m interested in Computer Science, Machine Learning and Data Science. 
 - 🌱 I’m currently learning the maths behind Machine Learning algorithms, while still trying to better my knowledge of certain programming languages (Python, Java and a bit of C).
-- 📫 How to reach me: email me at tristan.amadei@telecom-sudparis.eu
+- 📫 How to reach me: email me at tristan.amadei@ensae.fr
 - I'm currently looking for an internship, which could either be in France or overseas, or even remote. 
 
 <!---
